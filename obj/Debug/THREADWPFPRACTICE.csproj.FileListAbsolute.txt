@@ -1,0 +1,15 @@
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\bin\Debug\THREADWPFPRACTICE.exe.config
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\bin\Debug\THREADWPFPRACTICE.exe
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\bin\Debug\THREADWPFPRACTICE.pdb
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE.csprojAssemblyReference.cache
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\MainWindow.g.cs
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\App.g.cs
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE_MarkupCompile.cache
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE_MarkupCompile.lref
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\MainWindow.baml
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE.g.resources
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE.Properties.Resources.resources
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE.csproj.GenerateResource.cache
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE.exe
+C:\Users\Zyshchuk\source\repos\DLR_Practice\THREADWPFPRACTICE\obj\Debug\THREADWPFPRACTICE.pdb
